@@ -1,0 +1,57 @@
+
+.bgcolor
+{
+    background: rgb(15, 38, 59);
+}
+
+
+.tstyle
+{
+    color: rgb(178, 211, 240);
+    font-size: 45px;
+    font-weight: bold;
+}
+
+
+.pstyle
+{
+    color: aliceblue;
+    font-family: "Sofia", sans-serif;
+    font-size: 20px;
+    text-shadow: 2px 2px 5px red;
+    text-align: center;
+}
+
+
+.titlestyle
+{
+    color: aliceblue;
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+.pstyle2
+{
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+}
+
+.quotestyle
+{
+    color: aliceblue;
+    font-family: "Sofia", sans-serif;
+    font-size: 20px;
+    text-shadow: 2px 2px 5px rgb(255, 174, 0);
+    text-align: center;
+}
+
+.contactstyle
+{
+    color: aliceblue;
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 30px;
+    font-style: italic;
+}
