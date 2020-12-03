@@ -14,25 +14,26 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 
 <body class="bgcolor">
-  <nav class="navbar navbar-expand-sm bg-light navbar-light">
-    <ul class="navbar-nav">
-      <li class="nav-item active">
-        <a class="nav-link" href="index.html">Home</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="gallery.html">Gallery</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="haikyuu.html">Haikyuu</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="bnha.html">BNHA</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="contact.html">Contact Us</a>
-      </li>
-     </ul>
-  </nav> 
+<nav class="navbar navbar-expand-sm bg-light navbar-light">
+        <ul class="navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="index.php">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="gallery.php">Gallery</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="haikyuu.php">Haikyuu</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="bnha.php">BNHA</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.php">Contact Us</a>
+          </li>
+        </ul>
+      </nav>
+
 
   <div class="container">
     

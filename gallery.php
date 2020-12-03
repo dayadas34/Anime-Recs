@@ -13,25 +13,26 @@
 
 <body>
   
-    <nav class="navbar navbar-expand-sm bg-light navbar-light">
+<nav class="navbar navbar-expand-sm bg-light navbar-light">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="index.html">Home</a>
+            <a class="nav-link" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="gallery.html">Gallery</a>
+            <a class="nav-link" href="gallery.php">Gallery</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="haikyuu.html">Haikyuu</a>
+            <a class="nav-link" href="haikyuu.php">Haikyuu</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="bnha.html">BNHA</a>
+            <a class="nav-link" href="bnha.php">BNHA</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contact.html">Contact Us</a>
+            <a class="nav-link" href="contact.php">Contact Us</a>
           </li>
         </ul>
-      </nav>   
+      </nav>
+
 
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
